@@ -5,7 +5,7 @@ public class IT26101286Lab8Q4 {
 
         Scanner input = new Scanner(System.in);
 
-        int[] studentsArray = new int[8];
+        int studentsArray[] = new int[8];
 
         int index = 0;
 
